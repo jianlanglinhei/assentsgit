@@ -1,0 +1,10 @@
+spec_version: "0.1.0"
+name: user-memory-repo
+version: 0.1.0
+description: Dedicated git-backed memory repository for one application user
+author: assetledger-examples
+license: MIT
+tags:
+  - memory
+  - user-repo
+  - git
