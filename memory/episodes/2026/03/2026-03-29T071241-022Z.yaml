@@ -1,0 +1,17 @@
+schema: user-episode/v1
+userKey: u_cebf292c038fdcd2
+sessionId: 313d41ca-f391-4138-b84d-f7d196a02607
+transcriptPath: >-
+  ../../../../../../../.claude/projects/-Users-lin-Desktop-work-assetledger-examples-claude-agent-memory-user-repos-u-cebf292c038fdcd2/313d41ca-f391-4138-b84d-f7d196a02607.jsonl
+createdAt: '2026-03-29T07:12:41.022Z'
+summary: User introduced themselves as Tony
+delta:
+  summary: User introduced themselves as Tony
+  stableFacts:
+    - key: name
+      value: Tony
+      confidence: 1
+      evidence: User explicitly stated "记住我叫 Tony"
+      ttlDays: 365
+  openLoops: []
+  removals: []
