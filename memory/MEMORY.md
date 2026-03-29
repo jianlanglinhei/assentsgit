@@ -1,8 +1,10 @@
 ---
 schema: user-memory/v1
 user_key: u_cebf292c038fdcd2
-updated_at: '2026-03-29T07:12:41.020Z'
-summary: User introduced themselves as Tony
+updated_at: '2026-03-29T07:16:17.455Z'
+summary: >-
+  User asked about奥特曼 (Ultraman), but the query was ambiguous. The assistant
+  asked for clarification on what the user specifically wanted to know about奥特曼.
 stable_facts:
   - key: name
     value: Tony
@@ -15,7 +17,7 @@ open_loops: []
 
 # Summary
 
-User introduced themselves as Tony
+User asked about奥特曼 (Ultraman), but the query was ambiguous. The assistant asked for clarification on what the user specifically wanted to know about奥特曼.
 
 # Stable Facts
 

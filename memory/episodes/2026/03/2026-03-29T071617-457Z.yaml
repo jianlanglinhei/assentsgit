@@ -1,0 +1,20 @@
+schema: user-episode/v1
+userKey: u_cebf292c038fdcd2
+sessionId: 940b4a7f-5eeb-4179-b63e-f51db1205abd
+transcriptPath: >-
+  ../../../../../../../.claude/projects/-Users-lin-Desktop-work-assetledger-examples-claude-agent-memory-user-repos-u-cebf292c038fdcd2/940b4a7f-5eeb-4179-b63e-f51db1205abd.jsonl
+createdAt: '2026-03-29T07:16:17.457Z'
+summary: >-
+  User asked about奥特曼 (Ultraman), but the query was ambiguous. The assistant
+  asked for clarification on what the user specifically wanted to know about奥特曼.
+delta:
+  summary: >-
+    User asked about奥特曼 (Ultraman), but the query was ambiguous. The assistant
+    asked for clarification on what the user specifically wanted to know
+    about奥特曼.
+  stableFacts:
+    - key: name
+      value: Tony
+      confidence: 0.9
+  openLoops: []
+  removals: []
